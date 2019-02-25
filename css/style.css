@@ -182,5 +182,6 @@ body{background: url(../images/bg_000.png) no-repeat center 0 fixed; background-
 .con3_box2 .nextBtn{right: 0px;bottom: 0; border-top: 1px solid #fff;}
 .con3_box2 .prevBtn:hover, .con3_box2 .nextBtn:hover{color: #000;}
 
+.con3_box2 li{height: 60px;}
 .con3_box2 .slide5_box1{float: left;width: 300px; font-size: 0.8em}
 .con3_box2 .slide5_box2{float: right;width: 450px; font-size: 0.8em}
